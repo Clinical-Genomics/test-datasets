@@ -15,7 +15,7 @@ ops=["self", "self", "self", "self"]
 names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
 
 [[annotation]]
-file="whole_genome_SNVs_chr_subset.tsv.gz"
+file="whole_genome_SNVs_chr_subset.bed.gz"
 names=["CADD"]
 ops=["mean"]
 columns=[6]
